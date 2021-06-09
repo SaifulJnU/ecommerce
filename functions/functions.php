@@ -116,6 +116,11 @@ function tatalPrice()
  	}
  }
 
+
+
+
+
+
  /*product categories*/
 function getPCates()
 {
